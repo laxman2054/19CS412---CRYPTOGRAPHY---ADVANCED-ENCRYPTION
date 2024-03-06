@@ -84,13 +84,16 @@ return 0;
 }
 ```
 ## OUTPUT:
-![Screenshot 2024-03-05 113517](https://github.com/AlluguriSrikrishnateja/19CS412---CRYPTOGRAPHY---ADVANCED-ENCRYPTION/assets/118343892/b96f8704-db74-4fb0-835d-078d58644625)
+<img width="326" alt="image" src="https://github.com/laxman2054/19CS412---CRYPTOGRAPHY---ADVANCED-ENCRYPTION/assets/118680826/befd40db-876d-43f2-92f4-f792909992d7">
 
 
 ## RESULT :
 
 Thus the C program to implement RSA encryption technique had been
 implemented successfully
+
+
+
 
 
 ### IMPLEMENTATION OF DIFFIE HELLMAN KEY EXCHANGE ALGORITHM
@@ -163,13 +166,20 @@ return 0;
 ```
 ## OUTPUT:
 
-<img width="342" alt="image" src="https://github.com/AlluguriSrikrishnateja/19CS412---CRYPTOGRAPHY---ADVANCED-ENCRYPTION/assets/118343892/a3f5b0fa-ef81-4215-9521-2a16c87cef68">
+<img width="356" alt="image" src="https://github.com/laxman2054/19CS412---CRYPTOGRAPHY---ADVANCED-ENCRYPTION/assets/118680826/2da2405d-2531-43d1-8743-6b479ee95baa">
+
 
 
 ## RESULT: 
 
 Thus the Diffie-Hellman key exchange algorithm had been successfully
 implemented using C.
+
+
+
+
+
+
 
 ## IMPLEMENTATION OF DES ALGORITHM
 
@@ -207,7 +217,7 @@ print("decrypted string: ", decMessage)
 ```
 ## OUTPUT:
 
-<img width="756" alt="image" src="https://github.com/AlluguriSrikrishnateja/19CS412---CRYPTOGRAPHY---ADVANCED-ENCRYPTION/assets/118343892/23e74c08-7cea-4381-b9fe-97e247b17470">
+<img width="758" alt="image" src="https://github.com/laxman2054/19CS412---CRYPTOGRAPHY---ADVANCED-ENCRYPTION/assets/118680826/a99b16a9-1486-446f-a8e3-004c3ea0dd60">
 
 ## RESULT:
 
